@@ -93,7 +93,7 @@ header .navbar a:hover{
 
  /* home section Starts */
 .home{
-     background: url('/images/home-bg.jpg') no-repeat;
+     background: url('./images/home-bg.jpg') no-repeat;
      background-size: cover;
      background-position: center;
      background-attachment: fixed;
@@ -159,7 +159,7 @@ header .navbar a:hover{
 
 /* <!-- symptoms section Starts --> */
 .symptoms{
-    background: url('/images/background-img.jpg') no-repeat;
+    background: url('./images/background-img.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -238,7 +238,7 @@ header .navbar a:hover{
 
 /* <!-- doctor section starts --> */
 .doctor{
-    background: url('/images/background-img.jpg') no-repeat;
+    background: url('./images/background-img.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -329,7 +329,7 @@ header .navbar a:hover{
 
 /* <!-- footer section starts --> */
 .footer{
-    background: url('/images/background-img.jpg') no-repeat;
+    background: url('./images/background-img.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
